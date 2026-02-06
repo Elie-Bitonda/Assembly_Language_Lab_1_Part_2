@@ -1,6 +1,6 @@
-# PIC16F877A LED Control & Traffic Light Simulation
+PIC16F877A LED Control & Traffic Light Simulation
 
-This repository contains PIC16F877A assembly language programs demonstrating basic LED control and a traffic light system. The projects are developed using MPLAB and simulated in Proteus, focusing on embedded systems fundamentals such as I/O configuration, software delays, and microcontroller–hardware interfacing.
+This repository contains PIC16F877A assembly language programs demonstrating basic LED control and a traffic light system. The projects are developed using MPLAB and simulated in Proteus, focusing on embedded systems fundamentals such as I/O configuration, software delays, and microcontroller hardware interfacing.
 
 ---
 

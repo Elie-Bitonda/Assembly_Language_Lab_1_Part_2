@@ -133,6 +133,6 @@ This project demonstrates:
 
 ## Author
 
-Bitonda Tuyizere Elie 
+Bitonda Tuyizere Elie |
 Email: ebitonda@andrew.cmu.edu  
 

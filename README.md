@@ -12,7 +12,7 @@ The Proteus simulations use a PIC16F877A microcontroller with an external 4 MHz 
 
 During execution, PORTA is first configured as an output port and cleared to ensure all LEDs start in the OFF state. The LEDs are then controlled using simple `BSF` and `BCF` instructions. Timing delays are created using nested software loops based on the 4 MHz clock frequency. The delays are approximate and intended for learning and demonstration purposes.
 
-This project helps reinforce key embedded systems concepts such as port configuration, assembly language programming, software-based delays, and hardware–software integration using simulation tools. The design can be extended in the future by using hardware timers or interrupts for more accurate timing.
+This project helps reinforce key embedded systems concepts such as port configuration, assembly language programming, software-based delays, and hardware software integration using simulation tools. The design can be extended in the future by using hardware timers or interrupts for more accurate timing.
 
 Author:  
 Bitonda Tuyizere Elie  
